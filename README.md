@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashif1372
 - 👀 I’m interested in DEVELOPMENT
-- 🌱 I’m currently learning FULL STACK AND C++
+- 🌱 I’m currently learning FULL-STACK,C++,FLUTTER
 - 💞️ I’m looking to collaborate on INTRESTING PROJECTS
 
 <!---
